@@ -1,6 +1,6 @@
 # Introduction-to-research-methods-project
 
-## General informations
+## General information
 This project will be about the use of gendered and gender neutral pronouns in English literature. Gendered pronouns are he, she, his, her, etc. This project will study the usage of gendered/neutral pronouns throughout the years. Literature is always changing throughout the years, and English literature is no different. The frequency of gendered and neutral pronouns may also have changed. Two works will be selected from the Project Gutenberg corpus, one an English work from the 1900s, the other an English work from the 2000s.
 
 ## Background information
