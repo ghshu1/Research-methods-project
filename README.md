@@ -12,7 +12,8 @@ Research question: Has the usage of gendered and neutral pronouns changed over t
 Hypothesis: The usage of neutral pronouns is increasing over time compared to gendered pronouns in English literature.
 
 Independent Variable: Time period (work from 1900s, work from 2000s)
-Dependent Variable: Frequency of gendered pronouns (he, she, his, her, they, etc.)
+
+Dependent Variable: Percentage of gendered pronouns out of the total amount of pronouns used
 
 ## Method 
 Pick an English book from the Project Gutenberg corpus from the 1900s and the 2000s.
