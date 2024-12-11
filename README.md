@@ -15,16 +15,18 @@ Independent Variable: Time period (work from 1900s, work from 2000s)
 
 Dependent Variable: Percentage of gendered pronouns out of the total amount of pronouns used
 
+| Independent variable | Percentage of gendered pronouns |
+| -------------------- | ------------------------------- |
+| Work from 1900s      | 0 %                             |
+| Work from 2000s      | 0 %                             |
+
 ## Method 
-Pick an English book from the Project Gutenberg corpus from the 1900s and the 2000s.
-
-Count the frequency of gendered/neutral pronouns in each book.
-
-Count the total number of pronouns in each book.
-
-Get the relative frequency of gendered/neutral pronouns in each book.
+1. Pick an English book from the Project Gutenberg corpus from the 1900s and the 2000s.  
+2. Count the frequency of gendered/neutral pronouns in each book.  
+3. Count the total number of pronouns in each book.  
+4. Get the relative frequency of gendered/neutral pronouns in each book.  
 
 ### References
-Noil et al (2018) https://link.springer.com/article/10.1007/s10936-018-9577-4
+Noll, J., Lowry, M. & Bryant, J. Changes Over Time in the Comprehension of He and They as Epicene Pronouns. J Psycholinguist Res 47, 1057–1068 (2018). https://doi.org/10.1007/s10936-018-9577-4
 
-G Sendén et al. (2021) https://journals.sagepub.com/doi/10.1177/08912432211029226
+Gustafsson Sendén, M., Renström, E., & Lindqvist, A. (2021). Pronouns Beyond the Binary: The Change of Attitudes and Use Over Time. Gender & Society, 35(4), 588-615. https://doi.org/10.1177/08912432211029226
